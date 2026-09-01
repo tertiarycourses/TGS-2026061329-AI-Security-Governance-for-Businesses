@@ -1,0 +1,6 @@
+Agent ID,Agent Name,Business Owner (named),Purpose,Autonomy Tier,Tier Justification,Tools & Scopes,Data Reached,Sub-Agents,Irreversible Actions,Human Approval Points,Behavioural Baseline,Review Date,Kill-Switch Procedure,Time to Disable
+AGT-01,NovaAssist,,,,,,,,,,,,,
+AGT-02,Fraud Triage Agent,,,,,,,,,,,,,
+AGT-03,IT Helpdesk Agent,,,,,,,,,,,,,
+AGT-04,Marketing Content Agent,,,,,,,,,,,,,
+AGT-05,Reconciliation Agent,,,,,,,,,,,,,

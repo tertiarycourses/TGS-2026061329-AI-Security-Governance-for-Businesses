@@ -1,0 +1,11 @@
+Response ID,Department,Role,AI Tool Used,Purpose,Frequency,Data Entered Into Tool,IT Approved?
+R-001,Retail Marketing,Executive,ChatGPT (personal account),Draft campaign copy and customer emails,Weekly,Customer names and segment data pasted into prompts,No
+R-002,Credit Risk,Analyst,Claude (personal account),Summarise credit policy documents,Daily,Internal policy documents,No
+R-003,Finance Operations,Manager,ChatGPT (personal account),Explain reconciliation breaks and draft Excel formulas,Daily,Account numbers and balances pasted into prompts,No
+R-004,IT Service Desk,Engineer,GitHub Copilot,Write and refactor internal scripts,Daily,Internal source code,Yes
+R-005,Human Resources,Business Partner,Perplexity,Research employment law questions,Weekly,No confidential data,No
+R-006,Digital Channels,Developer,Cursor IDE,Build NovaAssist components,Daily,Internal source code and API keys in workspace,No
+R-007,Corporate Banking,Relationship Manager,Otter.ai,Transcribe client meetings,Weekly,Client names and deal terms,No
+R-008,Legal,Counsel,Microsoft 365 Copilot,Summarise contracts,Weekly,Contracts and legal advice,Yes
+R-009,Retail Marketing,Manager,Jasper AI,Generate product marketing content,Daily,Product and pricing data,No
+R-010,Operations,Officer,Google Gemini (personal account),Translate customer correspondence,Weekly,Customer correspondence incl. names and addresses,No

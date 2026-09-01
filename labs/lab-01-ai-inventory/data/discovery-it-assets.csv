@@ -1,0 +1,13 @@
+Asset ID,System Name,Vendor / Technology,Cost Centre,Environment,Description,AI Indicator (auto-flag)
+ASSET-1001,Core Banking Platform,Finacle,IT-Core,Production,Core deposit and loan ledger,No
+ASSET-1002,NovaAssist Customer Agent,In-house (Azure OpenAI GPT-4o),Digital Channels,Production,"Customer service agent: reads accounts, searches mail/web, sends email",Yes
+ASSET-1003,Credit Decision Engine,In-house (XGBoost),Credit Risk,Production,"Scores retail loan applications, supports approve/decline",Yes
+ASSET-1004,Fraud Triage Agent,Featurespace + in-house agent,Financial Crime,Production,"Triages fraud alerts, can freeze accounts pending review",Yes
+ASSET-1005,Document OCR Pipeline,ABBYY FlexiCapture,Operations,Production,Extracts fields from scanned KYC documents,Yes
+ASSET-1006,Email Gateway,Proofpoint,IT-Security,Production,Mail filtering,No
+ASSET-1007,IT Helpdesk Assistant,ServiceNow Now Assist,IT Service Desk,Production,"Answers staff IT queries, can reset passwords",Yes
+ASSET-1008,HR Payroll System,Workday,Human Resources,Production,Payroll processing,No
+ASSET-1009,Churn Prediction Model,In-house (LightGBM),Retail Marketing,Development,Predicts customer attrition for retention campaigns,Yes
+ASSET-1010,Data Warehouse,Snowflake,IT-Data,Production,Enterprise data warehouse,No
+ASSET-1011,Reconciliation Agent,In-house (LangGraph + GPT-4o-mini),Finance Operations,Pilot,"Reconciles nostro accounts, delegates to a sub-agent for exceptions",Yes
+ASSET-1012,Network Firewall,Palo Alto,IT-Security,Production,Perimeter firewall,No

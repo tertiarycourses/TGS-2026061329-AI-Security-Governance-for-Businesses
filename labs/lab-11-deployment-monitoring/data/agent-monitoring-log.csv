@@ -1,0 +1,282 @@
+timestamp,agent_id,user_id,tool_called,tokens,latency_s,refusal_flag,injection_detected,outcome,note
+2026-08-14 08:01:41,novassist,CUST-10010,send_email,1933,0.69,N,N,success,
+2026-08-14 08:04:26,novassist,CUST-10035,get_balance,1348,1.65,N,N,success,
+2026-08-14 08:07:22,novassist,CUST-10033,get_transactions,676,0.75,N,N,success,
+2026-08-14 08:09:15,novassist,CUST-10005,get_transactions,785,1.59,N,N,success,
+2026-08-14 08:10:22,novassist,CUST-10053,update_case,853,2.31,N,N,success,
+2026-08-14 08:12:42,novassist,CUST-10041,update_case,726,1.64,N,N,success,
+2026-08-14 08:14:32,novassist,CUST-10004,get_transactions,695,1.6,N,N,success,
+2026-08-14 08:15:49,novassist,CUST-10019,send_email,895,1.57,N,N,success,
+2026-08-14 08:18:02,novassist,CUST-10020,update_case,2271,1.83,N,N,success,
+2026-08-14 08:19:15,novassist,CUST-10038,update_case,1908,0.94,N,N,success,
+2026-08-14 08:20:27,novassist,CUST-10036,web_search,728,1.62,N,N,success,
+2026-08-14 08:22:46,novassist,CUST-10014,send_email,1993,1.56,N,N,success,
+2026-08-14 08:25:25,novassist,CUST-10021,send_email,1799,2.26,N,N,success,
+2026-08-14 08:27:11,novassist,CUST-10020,get_transactions,2226,0.92,N,N,success,
+2026-08-14 08:29:50,novassist,CUST-10016,get_balance,1776,1.14,N,N,success,
+2026-08-14 08:31:53,novassist,CUST-10057,search_kb,2093,1.41,N,N,success,
+2026-08-14 08:34:10,novassist,CUST-10005,get_balance,1648,1.35,N,N,success,
+2026-08-14 08:36:46,novassist,CUST-10022,get_transactions,1601,1.36,N,N,success,
+2026-08-14 08:39:11,novassist,CUST-10005,update_case,1773,2.02,N,N,success,
+2026-08-14 08:41:55,novassist,CUST-10021,search_kb,2023,1.23,N,N,success,
+2026-08-14 08:43:58,novassist,CUST-10038,send_email,740,2.11,N,N,success,
+2026-08-14 08:46:58,novassist,CUST-10018,send_email,2027,1.8,N,N,success,
+2026-08-14 08:48:05,novassist,CUST-10047,web_search,1234,1.76,N,N,success,
+2026-08-14 08:50:32,novassist,CUST-10053,send_email,1182,1.89,N,N,success,
+2026-08-14 08:53:25,novassist,CUST-10043,search_kb,646,2.29,N,N,success,
+2026-08-14 08:55:10,novassist,CUST-10011,update_case,839,1.49,N,N,success,
+2026-08-14 08:56:37,novassist,CUST-10050,search_kb,864,1.93,N,N,success,
+2026-08-14 08:58:27,novassist,CUST-10026,send_email,765,0.9,N,N,success,
+2026-08-14 09:00:18,novassist,CUST-10036,search_kb,2409,0.85,N,N,success,
+2026-08-14 09:02:13,novassist,CUST-10056,update_case,1170,1.87,N,N,success,
+2026-08-14 09:03:58,novassist,CUST-10044,send_email,1072,0.87,N,N,success,
+2026-08-14 09:05:20,novassist,CUST-10010,get_transactions,1948,1.02,N,N,success,
+2026-08-14 09:07:22,novassist,CUST-10054,update_case,973,1.07,N,N,success,
+2026-08-14 09:08:22,novassist,CUST-10010,send_email,1694,1.26,N,N,success,
+2026-08-14 09:10:34,novassist,CUST-10021,get_transactions,2014,2.15,N,N,success,
+2026-08-14 09:12:53,novassist,CUST-10042,web_search,2115,0.7,N,N,success,
+2026-08-14 09:15:48,novassist,CUST-10056,web_search,2234,1.61,N,N,success,
+2026-08-14 09:17:38,novassist,CUST-10026,send_email,812,1.47,N,N,success,
+2026-08-14 09:19:29,novassist,CUST-10004,get_transactions,737,2.37,N,N,success,
+2026-08-14 09:21:25,novassist,CUST-10011,get_balance,1296,1.68,N,N,success,
+2026-08-14 09:22:38,novassist,CUST-10001,update_case,909,1.57,N,N,success,
+2026-08-14 09:24:24,novassist,CUST-10040,get_balance,744,2.17,N,N,success,
+2026-08-14 09:26:42,novassist,CUST-10025,get_transactions,1899,1.05,N,N,success,
+2026-08-14 09:28:26,novassist,CUST-10039,search_kb,1571,0.82,N,N,success,
+2026-08-14 09:31:14,novassist,CUST-10032,send_email,1583,1.47,N,N,success,
+2026-08-14 09:32:24,novassist,CUST-10010,get_balance,2135,1.22,N,N,success,
+2026-08-14 09:33:57,novassist,CUST-10031,web_search,930,1.53,N,N,success,
+2026-08-14 09:35:23,novassist,CUST-10034,search_kb,900,1.84,N,N,success,
+2026-08-14 09:38:20,novassist,CUST-10002,update_case,1210,2.36,N,N,success,
+2026-08-14 09:41:10,novassist,CUST-10006,web_search,2331,1.07,N,N,success,
+2026-08-14 09:42:56,novassist,CUST-10059,get_transactions,1328,1.99,N,N,success,
+2026-08-14 09:45:04,novassist,CUST-10035,update_case,1275,1.75,N,N,success,
+2026-08-14 09:47:22,novassist,CUST-10052,get_transactions,2250,1.03,N,N,success,
+2026-08-14 09:49:13,novassist,CUST-10048,get_transactions,1009,1.53,N,N,success,
+2026-08-14 09:50:58,novassist,CUST-10047,get_balance,657,2.02,N,N,success,
+2026-08-14 09:52:58,novassist,CUST-10017,get_transactions,2018,1.69,N,N,success,
+2026-08-14 09:54:42,novassist,CUST-10029,web_search,1315,2.32,N,N,success,
+2026-08-14 09:56:28,novassist,CUST-10006,get_transactions,809,1.01,N,N,success,
+2026-08-14 09:57:53,novassist,CUST-10022,get_transactions,1588,1.72,N,N,success,
+2026-08-14 10:00:48,novassist,CUST-10040,get_balance,1581,2.24,N,N,success,
+2026-08-14 10:02:32,novassist,CUST-10052,web_search,773,2.1,N,N,success,
+2026-08-14 10:03:47,novassist,CUST-10059,send_email,2202,1.88,N,N,success,
+2026-08-14 10:05:12,novassist,CUST-10031,get_transactions,1488,2.02,N,N,success,
+2026-08-14 10:06:54,novassist,CUST-10006,web_search,1410,1.43,N,N,success,
+2026-08-14 10:09:29,novassist,CUST-10006,web_search,925,0.91,N,N,success,
+2026-08-14 10:10:45,novassist,CUST-10002,get_transactions,1809,2.23,N,N,success,
+2026-08-14 10:13:28,novassist,CUST-10042,get_transactions,1852,2.09,N,N,success,
+2026-08-14 10:15:28,novassist,CUST-10043,search_kb,919,1.59,N,N,success,
+2026-08-14 10:16:44,novassist,CUST-10002,get_balance,2237,2.35,N,N,success,
+2026-08-14 10:19:07,novassist,CUST-10007,update_case,2134,2.28,N,N,success,
+2026-08-14 10:21:02,novassist,CUST-10056,get_transactions,2291,2.17,N,N,success,
+2026-08-14 10:22:05,novassist,CUST-10017,get_transactions,1199,1.5,N,N,success,
+2026-08-14 10:24:42,novassist,CUST-10038,search_kb,1131,1.58,N,N,success,
+2026-08-14 10:27:28,novassist,CUST-10009,get_balance,2463,1.93,N,N,success,
+2026-08-14 10:30:22,novassist,CUST-10030,web_search,1794,2.07,N,N,success,
+2026-08-14 10:32:28,novassist,CUST-10027,update_case,867,1.56,N,N,success,
+2026-08-14 10:34:35,novassist,CUST-10033,get_balance,2387,1.39,N,N,success,
+2026-08-14 10:35:58,novassist,CUST-10039,get_balance,2189,2.04,N,N,success,
+2026-08-14 10:37:20,novassist,CUST-10010,send_email,1867,1.91,N,N,success,
+2026-08-14 10:39:31,novassist,CUST-10004,search_kb,1997,1.53,N,N,success,
+2026-08-14 10:41:42,novassist,CUST-10031,get_balance,2408,1.61,N,N,success,
+2026-08-14 10:43:13,novassist,CUST-10013,search_kb,686,1.99,N,N,success,
+2026-08-14 10:45:17,novassist,CUST-10029,update_case,657,1.97,N,N,success,
+2026-08-14 10:48:13,novassist,CUST-10005,send_email,1266,1.7,N,N,success,
+2026-08-14 10:50:17,novassist,CUST-10039,update_case,1008,1.85,N,N,success,
+2026-08-14 10:52:14,novassist,CUST-10033,update_case,2253,1.46,N,N,success,
+2026-08-14 10:55:14,novassist,CUST-10016,web_search,1671,2.18,N,N,success,
+2026-08-14 10:58:14,novassist,CUST-10017,update_case,2428,2.3,N,N,success,
+2026-08-14 11:01:01,novassist,CUST-10029,get_transactions,1453,0.82,N,N,success,
+2026-08-14 11:02:57,novassist,CUST-10021,get_balance,1974,1.03,N,N,success,
+2026-08-14 11:04:06,novassist,CUST-10014,web_search,1220,2.01,N,N,success,
+2026-08-14 11:07:00,novassist,CUST-10050,get_transactions,2066,1.76,N,N,success,
+2026-08-14 11:08:46,novassist,CUST-10010,search_kb,2408,0.85,N,N,success,
+2026-08-14 11:10:45,novassist,CUST-10015,web_search,792,1.32,N,N,success,
+2026-08-14 11:12:47,novassist,CUST-10011,web_search,2304,1.0,N,N,success,
+2026-08-14 11:15:17,novassist,CUST-10028,update_case,1427,1.21,N,N,success,
+2026-08-14 11:16:42,novassist,CUST-10023,search_kb,788,1.9,N,N,success,
+2026-08-14 11:17:44,novassist,CUST-10022,update_case,1539,1.39,N,N,success,
+2026-08-14 11:18:46,novassist,CUST-10025,search_kb,1659,1.72,N,N,success,
+2026-08-14 11:20:51,novassist,CUST-10005,get_balance,2481,2.02,N,N,success,
+2026-08-14 11:23:43,novassist,CUST-10007,get_balance,1143,1.09,N,N,success,
+2026-08-14 11:26:38,novassist,CUST-10050,get_transactions,1153,1.96,N,N,success,
+2026-08-14 11:29:22,novassist,CUST-10028,web_search,2277,2.3,N,N,success,
+2026-08-14 11:31:13,novassist,CUST-10010,update_case,2482,1.53,N,N,success,
+2026-08-14 11:33:16,novassist,CUST-10045,search_kb,783,1.1,N,N,success,
+2026-08-14 11:35:58,novassist,CUST-10045,get_transactions,1471,2.21,N,N,success,
+2026-08-14 11:37:32,novassist,CUST-10002,web_search,781,2.04,N,N,success,
+2026-08-14 11:38:42,novassist,CUST-10039,get_transactions,736,1.08,N,N,success,
+2026-08-14 11:39:57,novassist,CUST-10030,get_balance,1294,2.39,N,N,success,
+2026-08-14 11:41:50,novassist,CUST-10059,search_kb,1873,0.83,N,N,success,
+2026-08-14 11:43:57,novassist,CUST-10046,get_transactions,824,2.34,N,N,success,
+2026-08-14 11:45:30,novassist,CUST-10004,get_transactions,1013,2.28,N,N,success,
+2026-08-14 11:47:50,novassist,CUST-10020,update_case,2155,0.97,N,N,success,
+2026-08-14 11:49:47,novassist,CUST-10033,web_search,964,1.09,N,N,success,
+2026-08-14 11:52:29,novassist,CUST-10002,search_kb,675,0.63,N,N,success,
+2026-08-14 11:55:02,novassist,CUST-10033,update_case,988,1.53,N,N,success,
+2026-08-14 11:56:33,novassist,CUST-10029,get_balance,1948,2.07,N,N,success,
+2026-08-14 11:58:28,novassist,CUST-10043,send_email,1718,2.1,N,N,success,
+2026-08-14 12:00:18,novassist,CUST-10033,search_kb,2008,0.99,N,N,success,
+2026-08-14 12:01:47,novassist,CUST-10022,get_transactions,2304,2.19,N,N,success,
+2026-08-14 12:04:20,novassist,CUST-10041,get_transactions,1428,2.38,N,N,success,
+2026-08-14 12:05:26,novassist,CUST-10054,get_transactions,629,0.73,N,N,success,
+2026-08-14 12:08:00,novassist,CUST-10057,search_kb,1482,0.89,N,N,success,
+2026-08-14 12:09:10,novassist,CUST-10043,send_email,2382,1.51,N,N,success,
+2026-08-14 12:10:46,novassist,CUST-10039,get_transactions,2018,1.13,N,N,success,
+2026-08-14 12:12:44,novassist,CUST-10012,get_transactions,1150,1.4,N,N,success,
+2026-08-14 12:14:17,novassist,CUST-10024,search_kb,1720,1.18,N,N,success,
+2026-08-14 12:15:21,novassist,CUST-10057,search_kb,1046,1.24,N,N,success,
+2026-08-14 12:16:21,novassist,CUST-10022,send_email,771,1.45,N,N,success,
+2026-08-14 12:18:25,novassist,CUST-10042,get_transactions,1108,1.51,N,N,success,
+2026-08-14 12:19:25,novassist,CUST-10006,search_kb,2273,0.76,N,N,success,
+2026-08-14 12:21:16,novassist,CUST-10038,get_balance,1406,0.64,N,N,success,
+2026-08-14 12:22:54,novassist,CUST-10041,get_transactions,773,1.65,N,N,success,
+2026-08-14 12:25:01,novassist,CUST-10055,get_transactions,1946,2.21,N,N,success,
+2026-08-14 12:27:41,novassist,CUST-10057,update_case,1397,1.98,N,N,success,
+2026-08-14 12:30:13,novassist,CUST-10032,get_transactions,1181,1.9,N,N,success,
+2026-08-14 12:32:35,novassist,CUST-10010,get_balance,2289,2.1,N,N,success,
+2026-08-14 12:35:29,novassist,CUST-10033,web_search,1479,1.92,N,N,success,
+2026-08-14 12:38:12,novassist,CUST-10033,get_transactions,2463,1.54,N,N,success,
+2026-08-14 12:40:16,novassist,CUST-10037,get_balance,2292,1.84,N,N,success,
+2026-08-14 12:42:58,novassist,CUST-10058,web_search,1998,2.32,N,N,success,
+2026-08-14 12:45:20,novassist,CUST-10015,get_balance,663,0.68,N,N,success,
+2026-08-14 12:47:41,novassist,CUST-10024,get_balance,1371,2.1,N,N,success,
+2026-08-14 12:49:52,novassist,CUST-10004,web_search,638,1.73,N,N,success,
+2026-08-14 12:52:19,novassist,CUST-10016,send_email,1140,0.61,N,N,success,
+2026-08-14 12:55:01,novassist,CUST-10005,web_search,1630,2.22,N,N,success,
+2026-08-14 12:56:12,novassist,CUST-10043,update_case,735,1.94,N,N,success,
+2026-08-14 12:58:12,novassist,CUST-10017,get_balance,2332,1.08,N,N,success,
+2026-08-14 13:00:45,novassist,CUST-10049,get_transactions,1072,1.93,N,N,success,
+2026-08-14 13:02:43,novassist,CUST-10032,send_email,757,1.46,N,N,success,
+2026-08-14 14:05:18,novassist,CUST-10042,get_transactions,792,0.32,N,N,success,high-velocity sequence
+2026-08-14 14:05:36,novassist,CUST-10042,get_balance,439,0.6,N,N,success,high-velocity sequence
+2026-08-14 14:05:49,novassist,CUST-10042,get_transactions,733,0.67,N,N,success,high-velocity sequence
+2026-08-14 14:06:01,novassist,CUST-10042,get_balance,406,0.54,N,N,success,high-velocity sequence
+2026-08-14 14:06:16,novassist,CUST-10042,get_transactions,897,0.64,N,N,success,high-velocity sequence
+2026-08-14 14:06:35,novassist,CUST-10042,get_balance,745,0.54,N,N,success,high-velocity sequence
+2026-08-14 14:06:54,novassist,CUST-10042,get_transactions,637,0.53,N,N,success,high-velocity sequence
+2026-08-14 14:07:14,novassist,CUST-10042,get_balance,857,0.57,N,N,success,high-velocity sequence
+2026-08-14 14:07:26,novassist,CUST-10042,get_balance,879,0.54,N,N,success,high-velocity sequence
+2026-08-14 14:07:38,novassist,CUST-10042,get_transactions,439,0.71,N,N,success,high-velocity sequence
+2026-08-14 14:07:53,novassist,CUST-10042,get_transactions,598,0.4,N,N,success,high-velocity sequence
+2026-08-14 14:08:15,novassist,CUST-10042,get_balance,438,0.59,N,N,success,high-velocity sequence
+2026-08-14 14:08:25,novassist,CUST-10042,get_transactions,887,0.48,N,N,success,high-velocity sequence
+2026-08-14 14:08:42,novassist,CUST-10042,get_transactions,854,0.36,N,N,success,high-velocity sequence
+2026-08-14 14:08:55,novassist,CUST-10042,get_balance,654,0.75,N,N,success,high-velocity sequence
+2026-08-14 14:09:10,novassist,CUST-10042,get_transactions,412,0.38,N,N,success,high-velocity sequence
+2026-08-14 14:09:25,novassist,CUST-10042,get_transactions,607,0.45,N,N,success,high-velocity sequence
+2026-08-14 14:09:35,novassist,CUST-10042,get_transactions,576,0.49,N,N,success,high-velocity sequence
+2026-08-14 14:09:44,novassist,CUST-10042,get_transactions,400,0.46,N,N,success,high-velocity sequence
+2026-08-14 14:09:57,novassist,CUST-10042,get_transactions,461,0.77,N,N,success,high-velocity sequence
+2026-08-14 14:10:08,novassist,CUST-10042,get_balance,861,0.67,N,N,success,high-velocity sequence
+2026-08-14 14:10:20,novassist,CUST-10042,get_transactions,433,0.5,N,N,success,high-velocity sequence
+2026-08-14 14:10:41,novassist,CUST-10042,get_balance,584,0.76,N,N,success,high-velocity sequence
+2026-08-14 14:11:01,novassist,CUST-10042,get_transactions,837,0.32,N,N,success,high-velocity sequence
+2026-08-14 14:11:10,novassist,CUST-10042,get_balance,827,0.63,N,N,success,high-velocity sequence
+2026-08-14 14:11:28,novassist,CUST-10042,get_balance,527,0.79,N,N,success,high-velocity sequence
+2026-08-14 14:11:42,novassist,CUST-10042,get_transactions,497,0.69,N,N,success,high-velocity sequence
+2026-08-14 14:12:02,novassist,CUST-10042,get_transactions,852,0.31,N,N,success,high-velocity sequence
+2026-08-14 14:12:22,novassist,CUST-10042,get_transactions,867,0.74,N,N,success,high-velocity sequence
+2026-08-14 14:12:38,novassist,CUST-10042,get_balance,768,0.34,N,N,success,high-velocity sequence
+2026-08-14 14:13:00,novassist,CUST-10042,get_transactions,630,0.61,N,N,success,high-velocity sequence
+2026-08-14 14:13:10,novassist,CUST-10042,get_transactions,648,0.32,N,N,success,high-velocity sequence
+2026-08-14 14:13:32,novassist,CUST-10042,get_balance,487,0.54,N,N,success,high-velocity sequence
+2026-08-14 14:13:45,novassist,CUST-10042,get_transactions,552,0.43,N,N,success,high-velocity sequence
+2026-08-14 14:14:04,novassist,CUST-10042,get_transactions,607,0.63,N,N,success,high-velocity sequence
+2026-08-14 14:14:16,novassist,CUST-10042,get_transactions,685,0.63,N,N,success,high-velocity sequence
+2026-08-14 14:14:25,novassist,CUST-10042,get_balance,729,0.38,N,N,success,high-velocity sequence
+2026-08-14 14:14:36,novassist,CUST-10042,get_transactions,681,0.41,N,N,success,high-velocity sequence
+2026-08-14 14:14:58,novassist,CUST-10042,get_transactions,788,0.52,N,N,success,high-velocity sequence
+2026-08-14 14:15:08,novassist,CUST-10042,get_balance,524,0.35,N,N,success,high-velocity sequence
+2026-08-14 14:15:21,novassist,CUST-10042,get_balance,563,0.42,N,N,success,high-velocity sequence
+2026-08-14 14:15:33,novassist,CUST-10042,get_balance,854,0.31,N,N,success,high-velocity sequence
+2026-08-14 14:15:54,novassist,CUST-10042,get_transactions,596,0.51,N,N,success,high-velocity sequence
+2026-08-14 14:16:10,novassist,CUST-10042,get_balance,592,0.44,N,N,success,high-velocity sequence
+2026-08-14 14:16:30,novassist,CUST-10042,get_balance,655,0.44,N,N,success,high-velocity sequence
+2026-08-14 14:16:43,novassist,CUST-10042,get_balance,751,0.55,N,N,success,high-velocity sequence
+2026-08-14 14:17:01,novassist,CUST-10042,get_balance,447,0.44,N,N,success,high-velocity sequence
+2026-08-14 14:17:12,novassist,CUST-10042,get_transactions,604,0.62,N,N,success,high-velocity sequence
+2026-08-14 14:30:47,novassist,CUST-10188,search_kb,459,0.99,Y,N,refused,repeated refusal
+2026-08-14 14:31:08,novassist,CUST-10188,search_kb,365,0.42,Y,N,refused,repeated refusal
+2026-08-14 14:31:58,novassist,CUST-10188,search_kb,600,0.74,Y,N,refused,repeated refusal
+2026-08-14 14:32:22,novassist,CUST-10188,search_kb,500,1.05,Y,N,refused,repeated refusal
+2026-08-14 14:33:15,novassist,CUST-10188,search_kb,539,1.08,Y,N,refused,repeated refusal
+2026-08-14 14:33:50,novassist,CUST-10188,search_kb,700,0.48,Y,N,refused,repeated refusal
+2026-08-14 14:34:19,novassist,CUST-10188,search_kb,377,0.77,Y,N,refused,repeated refusal
+2026-08-14 14:34:45,novassist,CUST-10188,search_kb,669,0.89,Y,N,refused,repeated refusal
+2026-08-14 14:35:34,novassist,CUST-10188,search_kb,343,0.79,Y,N,refused,repeated refusal
+2026-08-14 14:35:56,novassist,CUST-10188,search_kb,300,0.95,Y,N,refused,repeated refusal
+2026-08-14 14:36:30,novassist,CUST-10188,search_kb,591,1.04,Y,N,refused,repeated refusal
+2026-08-14 15:12:00,novassist,CUST-10203,read_mailbox,3400,1.8,N,Y,success,injection pattern detected in inbound email
+2026-08-14 15:12:06,novassist,CUST-10203,get_transactions,2100,1.1,N,N,success,
+2026-08-14 15:12:14,novassist,CUST-10203,send_email,1800,0.9,N,N,success,OUTBOUND SEND following injection flag
+2026-08-14 15:32:17,novassist,CUST-10009,web_search,1115,1.55,N,N,success,
+2026-08-14 15:35:08,novassist,CUST-10045,get_balance,803,0.73,N,N,success,
+2026-08-14 15:38:22,novassist,CUST-10038,get_transactions,1394,1.07,N,N,success,
+2026-08-14 15:39:22,novassist,CUST-10001,update_case,1217,2.39,N,N,success,
+2026-08-14 15:41:33,novassist,CUST-10021,web_search,2319,2.19,N,N,success,
+2026-08-14 15:44:34,novassist,CUST-10034,get_transactions,1720,1.04,N,N,success,
+2026-08-14 15:47:19,novassist,CUST-10046,web_search,1229,0.7,N,N,success,
+2026-08-14 15:49:08,novassist,CUST-10032,web_search,1925,1.36,N,N,success,
+2026-08-14 15:51:13,novassist,CUST-10015,web_search,1469,2.27,N,N,success,
+2026-08-14 15:53:11,novassist,CUST-10032,get_balance,2025,1.21,N,N,success,
+2026-08-14 15:55:58,novassist,CUST-10024,web_search,1411,0.96,N,N,success,
+2026-08-14 15:58:12,novassist,CUST-10048,update_case,738,0.97,N,N,success,
+2026-08-14 16:00:03,novassist,CUST-10020,get_transactions,1072,1.44,N,N,success,
+2026-08-14 16:02:10,novassist,CUST-10049,search_kb,823,2.31,N,N,success,
+2026-08-14 16:05:16,novassist,CUST-10040,get_transactions,2435,1.0,N,N,success,
+2026-08-14 16:08:02,novassist,CUST-10059,web_search,715,2.31,N,N,success,
+2026-08-14 16:09:39,novassist,CUST-10026,get_balance,1036,0.64,N,N,success,
+2026-08-14 16:11:15,novassist,CUST-10027,get_balance,2053,0.71,N,N,success,
+2026-08-14 16:13:55,novassist,CUST-10029,web_search,2409,1.17,N,N,success,
+2026-08-14 16:15:23,novassist,CUST-10006,get_transactions,1274,0.94,N,N,success,
+2026-08-14 16:18:37,novassist,CUST-10048,send_email,665,1.16,N,N,success,
+2026-08-14 16:21:13,novassist,CUST-10054,search_kb,1279,1.4,N,N,success,
+2026-08-14 16:22:40,novassist,CUST-10001,get_balance,1173,0.75,N,N,success,
+2026-08-14 16:25:27,novassist,CUST-10057,get_balance,1749,2.34,N,N,success,
+2026-08-14 16:27:20,novassist,CUST-10025,search_kb,2174,2.08,N,N,success,
+2026-08-14 16:30:10,novassist,CUST-10006,get_balance,2044,1.45,N,N,success,
+2026-08-14 16:32:45,novassist,CUST-10035,send_email,995,1.18,N,N,success,
+2026-08-14 16:35:46,novassist,CUST-10002,web_search,1441,1.05,N,N,success,
+2026-08-14 16:38:29,novassist,CUST-10003,send_email,671,1.44,N,N,success,
+2026-08-14 16:39:44,novassist,CUST-10017,get_transactions,2130,0.71,N,N,success,
+2026-08-14 16:42:10,novassist,CUST-10024,search_kb,1286,2.32,N,N,success,
+2026-08-14 16:43:21,novassist,CUST-10017,web_search,2067,1.84,N,N,success,
+2026-08-14 16:45:31,novassist,CUST-10020,get_balance,2077,1.96,N,N,success,
+2026-08-14 16:46:47,novassist,CUST-10002,get_transactions,819,1.46,N,N,success,
+2026-08-14 16:49:46,novassist,CUST-10050,send_email,2217,1.05,N,N,success,
+2026-08-14 16:52:36,novassist,CUST-10053,send_email,871,2.27,N,N,success,
+2026-08-14 16:54:22,novassist,CUST-10001,web_search,1221,2.08,N,N,success,
+2026-08-14 16:56:00,novassist,CUST-10039,get_transactions,1271,2.15,N,N,success,
+2026-08-14 16:58:57,novassist,CUST-10024,update_case,761,1.52,N,N,success,
+2026-08-14 17:01:37,novassist,CUST-10049,get_transactions,1106,1.33,N,N,success,
+2026-08-14 17:02:45,novassist,CUST-10031,update_case,1715,1.19,N,N,success,
+2026-08-14 17:05:34,novassist,CUST-10057,get_balance,747,1.08,N,N,success,
+2026-08-14 17:06:55,novassist,CUST-10014,get_balance,1462,1.5,N,N,success,
+2026-08-14 17:09:49,novassist,CUST-10012,get_transactions,872,1.35,N,N,success,
+2026-08-14 17:11:49,novassist,CUST-10048,update_case,2334,1.99,N,N,success,
+2026-08-14 17:13:20,novassist,CUST-10050,search_kb,1201,1.1,N,N,success,
+2026-08-14 17:15:28,novassist,CUST-10024,search_kb,2111,1.07,N,N,success,
+2026-08-14 17:18:20,novassist,CUST-10016,get_transactions,1102,1.02,N,N,success,
+2026-08-14 17:20:32,novassist,CUST-10057,update_case,985,1.19,N,N,success,
+2026-08-14 17:23:13,novassist,CUST-10017,get_transactions,1639,1.55,N,N,success,
+2026-08-14 17:24:38,novassist,CUST-10042,send_email,675,0.78,N,N,success,
+2026-08-14 17:27:39,novassist,CUST-10057,get_transactions,2321,1.41,N,N,success,
+2026-08-14 17:30:14,novassist,CUST-10003,search_kb,1076,0.81,N,N,success,
+2026-08-14 17:32:02,novassist,CUST-10039,update_case,997,2.27,N,N,success,
+2026-08-14 17:34:37,novassist,CUST-10033,get_transactions,1519,1.69,N,N,success,
+2026-08-14 17:35:38,novassist,CUST-10007,web_search,1820,1.88,N,N,success,
+2026-08-14 17:38:07,novassist,CUST-10014,get_balance,1355,1.21,N,N,success,
+2026-08-14 17:39:18,novassist,CUST-10014,search_kb,678,1.68,N,N,success,
+2026-08-14 17:41:10,novassist,CUST-10053,get_balance,2276,1.19,N,N,success,
+2026-08-14 17:43:45,novassist,CUST-10012,update_case,1239,0.74,N,N,success,
+2026-08-15 03:14:34,novassist,CUST-10077,raise_payment,1361,0.98,N,N,success,out-of-hours
+2026-08-15 03:15:56,novassist,CUST-10077,get_transactions,1204,1.16,N,N,success,out-of-hours
+2026-08-15 03:16:45,novassist,CUST-10077,partner_api,1346,0.59,N,N,success,out-of-hours
+2026-08-15 03:17:35,novassist,CUST-10077,raise_payment,1512,0.77,N,N,success,out-of-hours
+2026-08-15 03:18:41,novassist,CUST-10077,partner_api,1114,0.92,N,N,success,out-of-hours
+2026-08-15 03:19:17,novassist,CUST-10077,raise_payment,1563,1.07,N,N,success,out-of-hours
+2026-08-15 03:20:32,novassist,CUST-10077,raise_payment,1226,0.52,N,N,success,out-of-hours
+2026-08-15 03:21:48,novassist,CUST-10077,partner_api,1001,0.89,N,N,success,out-of-hours
+2026-08-15 03:23:09,novassist,CUST-10077,get_transactions,806,0.93,N,N,success,out-of-hours

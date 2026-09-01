@@ -1,0 +1,13 @@
+Control,Executive Accountable Owner,AI Governance Lead,AI System Owner,Data Protection Officer,Security Lead,Model/Agent Developer,Internal Audit
+1. Maintain the AI system inventory,,,,,,,
+2. Conduct AI risk assessment,,,,,,,
+3. Approve data use for AI (lawful basis),,,,,,,
+4. Approve the model / agent design,,,,,,,
+5. Pre-deployment testing and red-teaming,,,,,,,
+6. Deployment sign-off (go/no-go),,,,,,,
+7. Design human oversight and override,,,,,,,
+8. Monitor AI systems in production,,,,,,,
+9. Logging and audit trail,,,,,,,
+10. AI incident response and kill switch,,,,,,,
+11. Third-party / vendor AI assurance,,,,,,,
+12. Decommission an AI system,,,,,,,

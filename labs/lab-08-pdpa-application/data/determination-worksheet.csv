@@ -1,0 +1,5 @@
+Scenario,Personal Data Used,Lawful Basis (consent / exception),Which Exception & Why,Notification Required,Accountability Measures,Data Protection Controls,Residual Legal Risk to Escalate
+1. Product recommendation model,,,,,,,
+2. Credit decision support model,,,,,,,
+3. Staff-facing GenAI assistant,,,,,,,
+4. Third-party fraud model,,,,,,,

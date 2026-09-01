@@ -1,0 +1,8 @@
+PO Number,Product,Vendor,Cost Centre,Annual Cost (SGD),Billing,Notes
+PO-2026-0181,Microsoft 365 Copilot,Microsoft,IT-Productivity,48000,Annual,"Productivity assistant across Word, Outlook, Teams; reads all files a user can access"
+PO-2026-0204,Jasper AI Marketing Suite,Jasper,Retail Marketing,18000,Annual,"Marketing copy generation - purchased by Marketing, not registered with IT"
+PO-2026-0233,Snowflake Compute,Snowflake,IT-Data,260000,Annual,Data warehouse compute credits
+PO-2026-0251,HireVue Assessment,HireVue,Human Resources,36000,Annual,AI-assisted candidate video screening for graduate hiring
+PO-2026-0262,Gong Revenue Intelligence,Gong.io,Corporate Banking,54000,Annual,"Records and analyses client calls, generates summaries and coaching"
+PO-2026-0270,Azure OpenAI Service,Microsoft,Digital Channels,95000,Consumption,Model hosting for NovaAssist
+PO-2026-0288,Zoom Enterprise,Zoom,IT-Productivity,72000,Annual,Video conferencing incl. AI Companion meeting summaries (enabled by default)

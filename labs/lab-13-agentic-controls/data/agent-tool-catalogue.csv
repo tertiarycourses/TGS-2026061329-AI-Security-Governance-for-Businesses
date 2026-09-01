@@ -1,0 +1,13 @@
+Tool ID,Tool Name,Function,Data Reached,Effect,Reversible?,Currently Requires Approval,Your Consequence Class,Your Decision (deny/ask/allow),Justification
+T-01,get_balance,Read account balance,"Customer account data (all retail customers)",Read,N/A,No,,,
+T-02,get_transactions,Read transaction history,"Customer transaction data (all retail customers)",Read,N/A,No,,,
+T-03,search_kb,Search internal knowledge base,Internal procedures and product terms,Read,N/A,No,,,
+T-04,read_mailbox,Read inbound customer e-mail,"Untrusted external content, attachments",Read,N/A,No,,,
+T-05,web_search,Search the public web,Untrusted external content,Read,N/A,No,,,
+T-06,parse_document,Parse customer-uploaded PDF/image,Untrusted external content,Read,N/A,No,,,
+T-07,update_case,Write CRM case notes,CRM records,Write,Yes,No,,,
+T-08,send_email,Send e-mail from service@novabank.example,Outbound to any address,External comms,No,No,,,
+T-09,raise_payment,Queue a funds transfer for release,Payment system,Write,Partially (before release),Only above SGD 5000,,,
+T-10,freeze_account,Place a hold on a customer account,Core banking,Write,Yes (manual reversal),No,,,
+T-11,partner_api_card,Order a replacement card via partner API,Third-party endpoint,External + write,No,No,,,
+T-12,render_link,Render a markdown link in the reply,Customer portal display,Display,N/A,No,,,

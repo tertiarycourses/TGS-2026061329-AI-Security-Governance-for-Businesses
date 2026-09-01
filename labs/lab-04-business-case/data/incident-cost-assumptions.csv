@@ -1,0 +1,11 @@
+Cost Category,Component,Low Estimate (SGD),Likely Estimate (SGD),High Estimate (SGD),Basis
+Regulatory,PDPC financial penalty,50000,400000,1000000,"PDPA penalty exposure; higher tier applies to larger organisations"
+Regulatory,MAS regulatory review and remediation,80000,200000,500000,"Licensed FI supervisory follow-up"
+Regulatory,External legal counsel,40000,120000,300000,Breach response counsel
+Remediation,Forensic investigation,60000,150000,350000,External DFIR engagement
+Remediation,System rebuild and control uplift,100000,300000,700000,Re-architecture of the affected AI system
+Remediation,Notification and credit monitoring,20000,90000,250000,Per-individual notification costs
+Business Interruption,AI service downtime,30000,110000,300000,Contact-centre fallback cost during agent suspension
+Business Interruption,Staff diverted to response,25000,75000,180000,Internal effort at loaded cost
+Reputational,Customer attrition,150000,450000,1200000,Modelled on churn uplift post-breach
+Reputational,Brand and communications response,30000,80000,200000,PR and customer communications

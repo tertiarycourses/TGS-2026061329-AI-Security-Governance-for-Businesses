@@ -1,0 +1,9 @@
+Threat Class,Simulator Module,What You Observed,AI-Era Variant,NovaBank Asset at Risk,Business Impact,First-Line Control
+Phishing,Phishing Simulator,,GenAI-crafted spear-phishing at scale; deepfake voice/video,,,
+SQL Injection,SQL Injection Simulator,,Prompt injection into a tool-calling agent,,,
+Cross-Site Scripting,XSS Simulator,,Unsafe rendering of untrusted model output (markdown/HTML),,,
+Weak Credentials,Password Lab / Weak Passwords,,Over-scoped or long-lived agent credentials and API keys,,,
+Malware,Malware Demo,,Malicious package or model artefact in the AI supply chain,,,
+Ransomware,Ransomware Demo,,Agent with write access used to encrypt or delete at machine speed,,,
+Social Engineering,Social Engineering Trainer,,Model manipulation and jailbreak via crafted persona prompts,,,
+Data Leakage,Data Leakage Estimator,,Training-data memorisation and context-window leakage,,,

@@ -1,0 +1,7 @@
+Scenario,Annual Likelihood (%),Description,Primary Risk Driver
+Prompt-injection data leak from customer-facing agent,18,"Untrusted content redirects the agent to disclose data",Lethal trifecta present in design
+Confidential data pasted into unapproved public GenAI tool,45,"Staff use of shadow AI with customer data",No acceptable-use policy or DLP
+Over-scoped agent credential misused,12,"Shared service identity with broad read access",No per-agent identity or least privilege
+Biased or unexplainable automated decision challenged,15,"Credit decision cannot be explained to the customer or regulator",No explainability or human review
+Third-party AI vendor breach exposing NovaBank data,10,"Vendor processing customer data is compromised",No third-party AI assurance
+Agent takes an unintended irreversible action,8,"Agent executes a payment or freeze incorrectly",No approval gate on irreversible actions

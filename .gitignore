@@ -1,0 +1,28 @@
+# --- Confidential: assessment papers and answer keys are Drive/LMS only ---
+assessment/
+*Answer to*
+*WA (SAQ)*
+*CS Assessment*
+# This course's assessment BUILDER embeds the live questions and model answers.
+.claude/skills/wsq-assessment/build_course_assessment.py
+
+# --- Secrets ---
+.env
+.env.*
+*.key
+*_api_key
+credentials.json
+
+# --- OS / editor junk ---
+.DS_Store
+._*
+~$*
+Thumbs.db
+
+# --- Archives ---
+*.zip
+courseware/archive/
+
+# --- Working files ---
+.playwright-mcp/
+*.tmp

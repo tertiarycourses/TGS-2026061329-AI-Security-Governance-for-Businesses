@@ -1,0 +1,11 @@
+Control ID,Control,Domain,Status,Covers AI?,Evidence
+C-01,CMDB registration before production,Asset Management,Operating,Partial,"CMDB has infrastructure; SaaS AI features and shadow AI absent"
+C-02,Security review before go-live,Secure Development,Operating,Partial,"Infrastructure reviewed; model/prompt/agent behaviour not in scope"
+C-03,Vendor Security Assessment Questionnaire,Third Party,Operating,No,"No AI-specific questions"
+C-04,CAB approval for production change,Change Management,Operating,No,"Model retraining and prompt changes bypass CAB as configuration"
+C-05,Record of processing activities,Data Protection,Degraded,No,"Not updated since Jan 2025; no AI systems listed"
+C-06,Model Risk Management validation,Model Risk,Operating,Partial,"Covers credit/capital models only; excludes GenAI and agents"
+C-07,Security incident response plan,Incident Response,Operating,No,"No AI-specific playbook; no agent kill-switch procedure"
+C-08,Infrastructure and endpoint monitoring,Security Operations,Operating,No,"No prompt, tool-call or model output monitoring"
+C-09,Annual security awareness training,People,Operating,No,"No AI-specific content"
+C-10,Access recertification,Identity,Operating,Partial,"Human accounts recertified; service identities incl. svc-novassist not in scope"

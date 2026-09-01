@@ -1,0 +1,8 @@
+CSA Control,Metric,Definition,Baseline (normal),Alert Threshold,Why It Matters,Response
+AG-MS.1,Action velocity,Tool calls per agent per minute,,,,
+AG-MS.1,Permission escalation rate,Requests for out-of-scope tools per day,,,,
+AG-MS.1,Cross-boundary invocations,Calls crossing a trust boundary per hour,,,,
+AG-MS.1,Delegation depth,Max sub-agent chain depth per run,,,,
+AG-MS.1,Exception rate,Failed or refused actions as % of runs,,,,
+AG-MS.3,Delegation breadth,Distinct sub-agents invoked per run,,,,
+AG-MS.3,Unauthorised capability access,Attempts to use a tool not in the allowlist,,,,

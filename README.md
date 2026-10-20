@@ -3,7 +3,7 @@
 [![WSQ](https://img.shields.io/badge/WSQ-TGS--2026061329-1F6FEB?style=for-the-badge)](https://www.tertiarycourses.com.sg/wsq-ai-security-governance-for-businesses.html)
 [![Duration](https://img.shields.io/badge/Duration-2%20days%20·%2016%20hours-10B981?style=for-the-badge)](https://www.tertiarycourses.com.sg/wsq-ai-security-governance-for-businesses.html)
 [![Funding](https://img.shields.io/badge/SkillsFuture-Up%20to%2070%25%20funded-F59E0B?style=for-the-badge)](https://www.skillsfuture.gov.sg/)
-[![Labs](https://img.shields.io/badge/Hands--on%20Labs-16-7C3AED?style=for-the-badge)](#the-16-hands-on-labs)
+[![Labs](https://img.shields.io/badge/Hands--on%20Labs-16-7C3AED?style=for-the-badge)](#labs)
 
 > Build the governance framework, lifecycle controls and agentic-AI security controls that keep AI
 > systems secure, lawful and accountable — grounded in the NIST AI Risk Management Framework,
@@ -12,9 +12,18 @@
 
 **[Register for this course →](https://www.tertiarycourses.com.sg/wsq-ai-security-governance-for-businesses.html)**
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2026061329` |
+| Programme | WSQ |
+| Duration | 2 days · 16 hours (including 2 hours of assessment) |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-ai-security-governance-for-businesses.html) |
+| Funding | Up to 70% course fee funding (50% baseline for SG/PR aged 21+; 70% for Singapore Citizens aged 40+ under MCES and SME-sponsored staff). Eligibility and terms apply — see [Funding](#funding). |
+| Courseware version | v1.0 |
+
 ---
 
-## About This Course
+## About the course
 
 AI has moved from pilot to production, and with it the risk has moved from theoretical to
 operational. Staff paste customer data into tools nobody approved. Agents read untrusted content,
@@ -40,7 +49,7 @@ implementation roadmap. Every artefact you build is one you can adapt to your ow
 
 ---
 
-## Learning Outcomes
+## Learning outcomes
 
 1. **Analyse** AI security governance foundations and the business risks that AI, generative AI and agentic AI introduce across an organisation.
 2. **Evaluate** AI governance frameworks and build an organisational governance structure of policies, roles, risk ownership and accountability.
@@ -49,7 +58,7 @@ implementation roadmap. Every artefact you build is one you can adapt to your ow
 
 ---
 
-## Course Outline
+## Topics covered
 
 ### Topic 1 — AI Security Governance Foundations and Business Risks
 Why AI breaks the traditional control model · the five new asset classes · traditional threats and
@@ -73,7 +82,7 @@ RMF · autonomy tiering · structured AI risk assessment · the implementation r
 
 ---
 
-## The 16 Hands-On Labs
+## Labs
 
 Every lab has its own folder under [`labs/`](labs/) containing **mock data** and a printable
 **instruction PDF**.
@@ -129,8 +138,15 @@ everything with:
 bash .claude/skills/courseware-build/build/build_courseware.sh
 ```
 
-> **Note:** the assessment papers and answer keys are confidential and are deliberately **not**
-> published in this repository.
+The slide deck includes the "Login to LMS and Download Course Material" slide showing the current
+lms-tms.tertiaryinfotech.com sign-in page.
+
+## Distribution boundary
+
+The slide deck, Learner Guide, Lesson Plan and labs are published in this repository. The assessment
+papers, answer keys, the Facilitator Guide, the Assessment Plan, source references and credentials are
+confidential and are deliberately **not** published; they are distributed through the approved Google
+Drive / LMS workflow.
 
 ---
 
